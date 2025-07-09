@@ -1,5 +1,5 @@
 # awesome-B-R [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made For B&R](https://github.com/hilch/BandR-badges/blob/main/Made-For-BrAutomation.svg)](https://www.br-automation.com)
-A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.To add, remove or change things on the list: please submit a [pull request](https://github.com/hilch/awesome-B-R/pulls).
+A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.To add, remove or change things on the list: please submit a [pull request](https://github.com/br-automation-community/awesome-B-R/pulls).
 
 ---
 ## Package Managers
@@ -9,19 +9,19 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 *alarm handling, recipe handling, data logging, user handling etc.*
 
 ### based on mapp Services
-* [mappDatabase](https://github.com/br-automation-com/mappDatabase-Demo) - Sample project for a basic recipe system using mappDatabase and mappView
-* [mappData](https://github.com/br-automation-com/mappView-Recorder) - This is a sample project for a data recorder with mappView and mappData
-* [mappBackup](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView and mappBackup
-* [mappRecipe](https://github.com/br-automation-com/mappView-Recipe) - Sample for a user management with mappView and mappRecipe
+* [mappDatabase](https://github.com/br-automation-community/mappDatabase-Demo) - Sample project for a basic recipe system using mappDatabase and mappView
+* [mappData](https://github.com/br-automation-community/mappView-Recorder) - This is a sample project for a data recorder with mappView and mappData
+* [mappBackup](https://github.com/br-automation-community/mappView-Backup) - Sample for a software management with mappView and mappBackup
+* [mappRecipe](https://github.com/br-automation-community/mappView-Recipe) - Sample for a user management with mappView and mappRecipe
 
 ### Recipes, databases and external storage
 * [simple recipe handling](https://github.com/hilch/dataobj-recipe) - Automation Studio demo: simple recipe handling with data objects (Library DataObj)
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
-* [Connect USB sticks](https://github.com/br-automation-com/AS-USB) - This is a sample project for automatically mounting multiple USB sticks on a B&R PLC.
-* [Connect a network share](https://github.com/br-automation-com/AS-NET) - This is a sample project for mounting a network share on a B&R PLC.
+* [Connect USB sticks](https://github.com/br-automation-community/AS-USB) - This is a sample project for automatically mounting multiple USB sticks on a B&R PLC.
+* [Connect a network share](https://github.com/br-automation-community/AS-NET) - This is a sample project for mounting a network share on a B&R PLC.
 * [Persist](https://github.com/loupeteam/Persist) - Library source: Persist provides a convenient and compact way of storing variables to permanent memory. Persist can store variables and structures of any type or scope, even local variables in other programs.
 * [CSVFileLib](https://github.com/loupeteam/CSVFileLib) - Library source: The CSVFileLib library provides a simple, intuitive interface for reading and writing variable values to and from comma separated value (CSV) files.
-* [mappCleanUp](https://github.com/br-automation-com/mappCleanUp) - This sample deletes old files from a directory using different criteria.
+* [mappCleanUp](https://github.com/br-automation-community/mappCleanUp) - This sample deletes old files from a directory using different criteria.
 
 ### String handling
 * [IecString](https://github.com/tmatijevich/IecString) - IecString is an Automation Studio library of string functions to be used with IEC 61131-1 languages such as Structured Text.
@@ -45,7 +45,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ### General purpose weapons
 * [brOscatLib](https://github.com/tkucic/brOscatLib) - B&R Automation studio port of the popular Oscat libraries
-* [BrbLib](https://github.com/br-automation-com/BrbLibs-lib-src) - Many useful functions/function blocks to solve general requirements at programming a B&R plc
+* [BrbLib](https://github.com/br-automation-community/BrbLibs-lib-src) - Many useful functions/function blocks to solve general requirements at programming a B&R plc
 * [Hammers](https://github.com/loupeteam/Hammers) - Library source: Misc. utility functions.
 ---
 
@@ -54,32 +54,32 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ### based on mapp View
 * [Mapp View Getting Started](https://github.com/hilch/mapp-view-getting-started) - Getting Started with B&R mappView
 * [mapp View wiki](https://github.com/stephan1827/mappView/wiki) - Collection of B&R mappView tips and code snippets
-* [mapp View User Management](https://github.com/br-automation-com/mappView-User) - Sample for a user management with mappView
-* [mapp View File Explorer](https://github.com/br-automation-com/mappView-File-Explorer) - Sample for a file explorer with mappView
+* [mapp View User Management](https://github.com/br-automation-community/mappView-User) - Sample for a user management with mappView
+* [mapp View File Explorer](https://github.com/br-automation-community/mappView-File-Explorer) - Sample for a file explorer with mappView
 * [mapp View File Explorer 2](https://github.com/NytkoD/FileBrowser/tree/main) - Alternate sample for a file explorer widget and library with mappView
-* [mapp View Recipe Management](https://github.com/br-automation-com/mappView-Recipe) - Sample for a user management with mappView and mappRecipe
-* [mapp View Data Recorder](https://github.com/br-automation-com/mappView-Recorder) - This is a sample project for a data recorder with mappView and mappData
-* [mapp View Logbook](https://github.com/br-automation-com/mappView-Logbook) - Read the PLC logbook with mappView
-* [mapp View Software Management](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView and mappBackup
-* [mapp View ACOPOStrak diagnosis](https://github.com/br-automation-com/mvDemoTrak) - mappView Demo for ACOPOStrak
+* [mapp View Recipe Management](https://github.com/br-automation-community/mappView-Recipe) - Sample for a user management with mappView and mappRecipe
+* [mapp View Data Recorder](https://github.com/br-automation-community/mappView-Recorder) - This is a sample project for a data recorder with mappView and mappData
+* [mapp View Logbook](https://github.com/br-automation-community/mappView-Logbook) - Read the PLC logbook with mappView
+* [mapp View Software Management](https://github.com/br-automation-community/mappView-Backup) - Sample for a software management with mappView and mappBackup
+* [mapp View ACOPOStrak diagnosis](https://github.com/br-automation-community/mvDemoTrak) - mappView Demo for ACOPOStrak
 * [mapp View compound widgets toolkit](https://github.com/mustonenm/mvCoWidgetsTools.git) - mapp View compound widgets graphical editor demo project and toolkit
 
 ### based on VC4
-* [BrbLibVc4](https://github.com/br-automation-com/BrbLibs-lib-src) - Many useful functions/function blocks for a transparent and intuitive coding of a Visual Components 4 logic.
+* [BrbLibVc4](https://github.com/br-automation-community/BrbLibs-lib-src) - Many useful functions/function blocks for a transparent and intuitive coding of a Visual Components 4 logic.
 
 ### based on HTML
 * [webdemo](https://github.com/hilch/br-plc-as-webserver) - demo: use B&R plc as webserver
 * [Loupe UX](https://github.com/loupeteam/Loupe-UX) - Library source: The Loupe UX javascript library provides functionality for implementing a web-based HMI for machines. It allows you to use the full capabilities of web technologies on your machine.
 
 ### Panel Hardware
-* [mappPanel](https://github.com/br-automation-com/mappPanel) - Sample for communication from a B&R PLC to a T-Panel over OPC UA.
+* [mappPanel](https://github.com/br-automation-community/mappPanel) - Sample for communication from a B&R PLC to a T-Panel over OPC UA.
 
 ---
 
 ## Vision
-* [Vision Demo App](https://github.com/br-automation-com/mappVision-Demo) - Demo application for B&R vision camera
+* [Vision Demo App](https://github.com/br-automation-community/mappVision-Demo) - Demo application for B&R vision camera
 * [Vision Scipt](https://github.com/TomasVostrel/mapp_vision_files) - Python app that generates B&R mapp Vision configuration files
-* [BRDK vision](https://github.com/br-automation-com/brdkVision) - Multiple libaries for handling image, showing image on HMI with overlay, calibration, convertsions, decoded of images, recipe handling of Vision Function dataset, ROI etc.
+* [BRDK vision](https://github.com/br-automation-community/brdkVision) - Multiple libaries for handling image, showing image on HMI with overlay, calibration, convertsions, decoded of images, recipe handling of Vision Function dataset, ROI etc.
 
 ---
 
@@ -125,7 +125,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ## Safety / OpenSafety
 
 ### based on mapp
-* [diagnose safey digital output state](https://github.com/br-automation-com/SafeDODiag) - An Automation Studio library that uses standard PLC's I/O data to diagnoses why safe digital outputs are not enabled when commanded. Support both mapp Safety and Safety Release. Support X20SO21x0 and X20SO41x0.
+* [diagnose safey digital output state](https://github.com/br-automation-community/SafeDODiag) - An Automation Studio library that uses standard PLC's I/O data to diagnoses why safe digital outputs are not enabled when commanded. Support both mapp Safety and Safety Release. Support X20SO21x0 and X20SO41x0.
 
 
 --- 
@@ -136,9 +136,9 @@ links regarding the plc development process
 Automation Studio extensions / alternatives / addons etc.
 * [automation-studio-editor-dark](https://github.com/boaz001/automation-studio-editor-dark) - Dark mode for Automation Studio
 * [Automation-Studio-One-Dark](https://github.com/staber/Automation-Studio-One-Dark) - One Dark inspired theme for B&R Automation Studio
-* [EmbGcov-Demo](https://github.com/br-automation-com/EmbGcov-Demo) - Code coverage demo project with C/C++ tasks and libraries
+* [EmbGcov-Demo](https://github.com/br-automation-community/EmbGcov-Demo) - Code coverage demo project with C/C++ tasks and libraries
 * [BuildVersion](https://github.com/br-na-pm/BuildVersion) - Build event capturing git and project version information, Windows native PowerShell, use with or without git
-* [B&R DevOps Package](https://github.com/br-automation-com/BnR-DevOps-Package) - Resources for incorporating DevOps practices into AS Project Development 
+* [B&R DevOps Package](https://github.com/br-automation-community/BnR-DevOps-Package) - Resources for incorporating DevOps practices into AS Project Development 
 
 
 ### External Tools
@@ -149,7 +149,7 @@ Automation Studio extensions / alternatives / addons etc.
 * [ListAllBurPLCs](https://github.com/Chihing/ListAllBurPLCs) - This tool lists all B&R PLCs on network
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [openSAFETYLogbrowser](https://github.com/banickn/openSAFETY-logbrowser) - a log browser application for openSAFETY used with a openPOWERLINKMN based on Electron.
-* [B&R Automation Tools extension for VS Code](https://github.com/br-automation-com/vscode-brautomationtools) - Visual Studio Code extension for AS project editing 
+* [B&R Automation Tools extension for VS Code](https://github.com/br-automation-community/vscode-brautomationtools) - Visual Studio Code extension for AS project editing 
 * [StructuredText Language Package for VS Code](https://github.com/Serhioromano/vscode-st) - Visual Studio Code support for IEC 61131-3 Structured Text 
 * [systemdump.py](https://github.com/hilch/systemdump.py) - create and load a system dump for B&R PLC from the command line
 * [Rev Info](https://loupeteam.github.io/Sandbox/tools/revinfo.html) - RevInfo automatically creates Git commit data and Automation Studio build information in a variable declaration file you can use within your Automation Studio project.
@@ -159,8 +159,8 @@ Automation Studio extensions / alternatives / addons etc.
 ## Communication
 
 ### OPC-UA
-* [OpcUaSamples](https://github.com/br-automation-com/OpcUaSamples-sample-AS) - Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
-* [easyuaclient-as-project](https://github.com/br-automation-com/easyuaclient-as-project-dev) - The EasyUaClnt is a simplicity wrapper library based on AsOpcUac to provide a clear interface for OpcUA client.
+* [OpcUaSamples](https://github.com/br-automation-community/OpcUaSamples-sample-AS) - Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
+* [easyuaclient-as-project](https://github.com/br-automation-community/easyuaclient-as-project-dev) - The EasyUaClnt is a simplicity wrapper library based on AsOpcUac to provide a clear interface for OpcUA client.
 * [demo-br-asyncua](https://github.com/hilch/demo-br-asyncua) - simple example how to get access to B&R PLC with asyncua: Python asyncio based OPC-UA stack
 
 ### Ethernet Powerlink (EPL)
@@ -195,7 +195,7 @@ Automation Studio extensions / alternatives / addons etc.
 ## IOT
 
 * [br-sitemanager-azure-demo](https://github.com/hzeitlhofer/br-sitemanager-azure-demo) - B&amp;R SiteManager Demo for Azure IoT
-* [paho.mqtt.c-ar](https://github.com/br-automation-com/paho.mqtt.c-ar) - MQTT Client Library for Automation Runtime based on eclipse/paho.mqtt.c
+* [paho.mqtt.c-ar](https://github.com/br-automation-community/paho.mqtt.c-ar) - MQTT Client Library for Automation Runtime based on eclipse/paho.mqtt.c
 * [azure-iothub-instructions](https://dv-br-automation.github.io/azure-iothub-instructions/) - Getting started guide for Azure IoT Hub on B&R APCs
 
 
